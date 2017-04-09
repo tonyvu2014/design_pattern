@@ -1,2 +1,2 @@
 # design_pattern
-Implementation of design pattern
+Implementation of design patterns
