@@ -8,8 +8,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.tonyvu.designpattern.decorator.observer.Consumer;
-import com.tonyvu.designpattern.decorator.observer.Producer;
+import com.tonyvu.designpattern.observer.Consumer;
+import com.tonyvu.designpattern.observer.Producer;
 
 public class ProducerAndConsumerTest {
 	

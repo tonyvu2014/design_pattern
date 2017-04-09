@@ -1,4 +1,4 @@
-package com.tonyvu.designpattern.decorator.observer;
+package com.tonyvu.designpattern.observer;
 
 public class Consumer {
 	
